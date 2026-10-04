@@ -51,21 +51,15 @@ Games, simulations and interactive digital worlds.
 
 ---
 
-## 🧪 Selected projects
+## 🪄 How I like to build
 
-### 💜 SELF-PAY AI
-An experimental engine exploring whether useful automated systems can progressively fund their own infrastructure.
+I enjoy projects that mix **curiosity, experimentation and practical usefulness**.
 
-`automation` · `agents` · `experiments` · `economics`
+I tend to explore ideas through small prototypes, learn from what works, and keep the interesting parts growing quietly behind the scenes.
 
-### 🧠 NEAlabs
-Experiments at the intersection of cognition, AI and accessible technology.
+`AI` · `software` · `automation` · `research` · `creative technology`
 
-### 🌿 Gardenwake
-A small experimental playground for ideas that deserve somewhere to grow.
-
-### ⚽ Futbol Lab
-Data, experimentation and technology applied to football.
+> Some work is public. Some is still becoming.
 
 ---
 
